@@ -1,0 +1,17 @@
+{
+  "entity.chicken.ambient": {
+    "sounds": [
+      "mob/chicken/say1"
+      "mob/chicken/say2"
+      "mob/chicken/say3"
+    ],
+    "replace": true, "subtitle": "subtitles.entity.chicken.ambient"
+  },
+  "entity.chicken.death": {
+    "sounds": [
+      "mob/chicken/hurt1"
+      "mob/chicken/hurt2"
+    ],
+    "replace": true, "subtitle": "subtitles.entity.chicken.ambient"
+  },
+}
